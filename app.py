@@ -394,7 +394,7 @@ def upload_coordination():
 
         # Google Maps API endpoint and key
         google_maps_endpoint = "https://maps.googleapis.com/maps/api/directions/json"
-        google_api_key = "AIzaSyBGLclrhHS7OZKUPKjwtH0GyW0kvDX5n_4"
+        google_api_key = "your_google_api_key"
 
         # Parameters for the Google Maps Directions API
         params = {
